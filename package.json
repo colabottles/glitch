@@ -1,4 +1,4 @@
-JSON.parse('{
+{
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.16.4"
@@ -15,4 +15,4 @@ JSON.parse('{
 		"url": "https://idontknow/todo.git"
 	},
   "author": "colabottles" 
-}');
+}
